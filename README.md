@@ -1,6 +1,4 @@
-# Hi, I'm Diya Ganesh! 👋
-
-![Northeastern University Logo](https://upload.wikimedia.org/wikipedia/commons/e/e6/Northeastern_University_seal.svg)  
+# Hi, I'm Diya Ganesh! 👋 
 *Research Informatics Co-op @ Tango Therapeutics | DS + BNS Student @ Northeastern*
 
 ---
